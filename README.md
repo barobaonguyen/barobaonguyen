@@ -1,4 +1,4 @@
-# Hey, I'm Bao 👋
+# Hey, I'm Baro 👋
 
 **AI engineer building production automation for crypto/trading.**
 
