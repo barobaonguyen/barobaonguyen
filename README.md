@@ -8,6 +8,7 @@ I ship tools that bridge LLMs to real-world systems — on-chain data, market si
 
 ### 🤖 AI agent frameworks
 - **[gemini-agent-toolkit](https://github.com/barobaonguyen/gemini-agent-toolkit)** *(v0.1.0 — live)* — LangGraph for Gemini. Cost tracking, prompt caching, structured output. 88% test coverage, CI on 3.11/3.12 × Ubuntu/Windows.
+- **[ai-news-aggregator](https://github.com/barobaonguyen/ai-news-aggregator)** *(v0.1.0 — live)* — Auto-summarize 35+ AI newsletters into one weekly Telegram digest. Gmail IMAP → Gemini classify + summarize → Telegram. ~$0.02/week on Gemini Pro, runs Sunday 8AM via cron. Reference impl of `gemini-agent-toolkit` patterns.
 
 ### 📊 Crypto signal & trading
 - **pulse-signals** *(shipping Week 6)* — Walk-forward-first confluence scorer. TA + on-chain + funding.
