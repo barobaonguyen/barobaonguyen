@@ -6,7 +6,7 @@ The pattern behind every monitoring/alerting bot is the same: scrape a source �
 
 ## 🚀 Build automation bots with Claude
 
-- **[ai-automation-skills](https://github.com/barobaonguyen/ai-automation-skills)** *(live)* — 15 production-tested Claude Code skills for the scrape → AI → alert stack: Gemini cost control + structured output, Telegram alerts, walk-forward validation, OSS bounty scouting. One command:
+- **[ai-automation-skills](https://github.com/barobaonguyen/ai-automation-skills)** *(v0.2.0 — live)* — 15 production-tested Claude Code skills for the scrape → AI → alert stack: Gemini cost control + prompt caching + structured output, Telegram alerts, cron scheduling, resumable pipelines, IMAP email digests, walk-forward validation + backtest comparison, OSS bounty + GitHub-label scouting. One command:
   `/plugin install ai-automation-skills@barobaonguyen`
 - **Trawlkit** *(shipping soon)* — a paid starter kit that wires these skills into runnable Python bots: Playwright scraper + cost-controlled Gemini + Telegram alerts + scheduler + a `tk` CLI + 3 working bots. Follow [@barobaonguyen](https://x.com/barobaonguyen) for launch.
 
